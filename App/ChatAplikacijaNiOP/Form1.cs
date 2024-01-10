@@ -28,5 +28,16 @@ namespace ChatAplikacijaNiOP
             var NewForm = new Form3();
             NewForm.Show();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            var NewForm = new Form4();
+            NewForm.Show();
+        }
     }
 }

@@ -22,3 +22,16 @@ C:\Users\Ucenik\Desktop\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.cspr
 C:\Users\Ucenik\Desktop\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.csproj.CoreCompileInputs.cache
 C:\Users\Ucenik\Desktop\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.exe
 C:\Users\Ucenik\Desktop\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.pdb
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\bin\Debug\ChatAplikacijaNiOP.exe.config
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\bin\Debug\ChatAplikacijaNiOP.exe
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\bin\Debug\ChatAplikacijaNiOP.pdb
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.Form1.resources
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.Form2.resources
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.Form3.resources
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.Properties.Resources.resources
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.csproj.GenerateResource.cache
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.exe
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.pdb
+C:\Users\Ucenik\Source\Repos\ChatApp\App\ChatAplikacijaNiOP\obj\Debug\ChatAplikacijaNiOP.Form4.resources
